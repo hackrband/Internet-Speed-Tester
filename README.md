@@ -13,4 +13,4 @@ This project provides a real-time internet speed test that measures your connect
 - **Ping Latency**: Measures the round-trip time for messages sent from the originating host to a destination computer.
 
 ## Installation
-(https://github.com/sivel/speedtest-cli]([url](https://github.com/sivel/speedtest-cli))
+https://github.com/sivel/speedtest-cli]([url](https://github.com/sivel/speedtest-cli)
